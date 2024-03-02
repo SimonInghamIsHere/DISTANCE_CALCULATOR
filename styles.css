@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(80deg, red, orange);
+    align-items: center;
+}
+
+#container {
+    text-align: center;
+    margin: auto;
+    background: white;
+    width: 600px;
+    height: 280px;
+}
+
+
+h1 {
+ color: rgb(232, 3, 3);
+ text-align: center;
+ padding-top: 20px;
+}
+
+#speed {
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+}
+
+#time {
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 30px;
+   }
+
+button {
+width: 80px;
+height: 50px;
+font-size: 20px;
+border-radius: 15px;
+color: white;
+background-color: orange;
+border: none;
+
+}
